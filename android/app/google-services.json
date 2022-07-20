@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29442052173",
+    "project_id": "chat-app-75904",
+    "storage_bucket": "chat-app-75904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29442052173:android:78c18fa9988408d2494c04",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_zoloo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29442052173-p7dvidtmpa76ieti7ooprds5q2s2cho5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq1cP9FFXbBusvRAfHbb8nUaeBQxhq3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29442052173-p7dvidtmpa76ieti7ooprds5q2s2cho5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
